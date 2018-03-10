@@ -1,3 +1,4 @@
+#Check from two ends of the list
 class Solution(object):
     def maxArea(self, height):
         """
